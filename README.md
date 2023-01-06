@@ -1,6 +1,4 @@
-#### Hi there 👋
-### Feel Free to look around.
-
+### Hi there 👋
 - 🔭 I’m currently working with C.
 
 <!--
